@@ -86,9 +86,6 @@
 
    *Yifan Du, Zikang Liu, Yifan Li, Wayne Xin Zhao, Yuqi Huo, Bingning Wang, Weipeng Chen, Zheng Liu, Zhongyuan Wang, Ji-Rong Wen*
 
-
-   *Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng*
-
 ### 2024
 
 1. 🔥 **Mulberry [Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search](https://arxiv.org/abs/2412.18319)** [[Code](https://github.com/HJYao00/Mulberry)] (24 Dec 2024)
@@ -128,6 +125,8 @@
    *Zhicheng Zheng, Xin Yan, Zhenfang Chen, Jingzhou Wang, Qin Zhi Eddie Lim, Joshua B. Tenenbaum, Chuang Gan*
 
 1. 📖 **ConTextual [ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models](https://arxiv.org/abs/2401.13311)** [[Code](https://github.com/rohan598/ConTextual)] [[Website](https://con-textual.github.io/)] (24 Jan 2024, ICML 2024)
+
+   *Rohan Wadhawan, Hritik Bansal, Kai-Wei Chang, Nanyun Peng*
 
 ### 2023
 
