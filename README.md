@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/com/Ruiyang-061X/Awesome-MLLM-Reasoning/stargazers"><img src="https://img.shields.io/github/stars/com/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Stargazers"></a>
-  <a href="https://github.com/com/Ruiyang-061X/Awesome-MLLM-Reasoning/network/members"><img src="https://img.shields.io/github/forks/com/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/com/Ruiyang-061X/Awesome-MLLM-Reasoning/graphs/contributors"><img src="https://img.shields.io/github/contributors/com/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Contributors"></a>
-  <a href="https://github.com/com/Ruiyang-061X/Awesome-MLLM-Reasoning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/com/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="MIT License"></a>
+  <a href="https://github.com/Ruiyang-061X/Awesome-MLLM-Reasoning/stargazers"><img src="https://img.shields.io/github/stars/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Stargazers"></a>
+  <a href="https://github.com/Ruiyang-061X/Awesome-MLLM-Reasoning/network/members"><img src="https://img.shields.io/github/forks/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/Ruiyang-061X/Awesome-MLLM-Reasoning/graphs/contributors"><img src="https://img.shields.io/github/contributors/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="Contributors"></a>
+  <a href="https://github.com/Ruiyang-061X/Awesome-MLLM-Reasoning/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Ruiyang-061X/Awesome-MLLM-Reasoning?style=for-the-badge" alt="MIT License"></a>
 </div>
 
 <h1 align="center">Awesome MLLM Reasoning</h1>
