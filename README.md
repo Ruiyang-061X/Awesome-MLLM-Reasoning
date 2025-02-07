@@ -14,6 +14,21 @@
 > 🔥 for papers with >50 citations or repositories with >200 stars.\
 > 📖 for papers accepted by reputed conferences/journals.
 
+## 📝 Industrial Product
+
+### 2025
+
+1. **[OpenAI o3-mini](https://openai.com/index/openai-o3-mini/)** (31 Jan, 2025)
+  
+   *OpenAI Team*
+
+
+### 2024
+
+1. **[OpenAI o1](https://cdn.openai.com/o1-system-card.pdf)** (12 Sept, 2024)
+
+   *OpenAI Team*
+
 ## 📝 Survey
 
 ### 2025
